@@ -1,5 +1,6 @@
 name: "🚀 Feature request"
 description: Suggest a feature or improvement
+# Labels must be prepared in advance, otherwise no labels are applied
 labels: ["pending triage"]
 body:
   - type: markdown
