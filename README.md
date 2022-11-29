@@ -57,5 +57,3 @@ Published under [MIT License](./LICENSE).
 
 [codecov-src]: https://img.shields.io/codecov/c/gh/unjs/packageName/main?style=flat-square
 [codecov-href]: https://codecov.io/gh/unjs/packageName
-
-Change.
